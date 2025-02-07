@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wall of Boredom</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Wall of Boredom</h1>
+            <button class="upload-btn">Kép Feltöltése</button>
+        </header>
+        <main>
+            <div class="wall">
+                <!-- Itt jelennek meg a képek -->
+            </div>
+        </main>
+        <footer>
+            <p>© 2025 Wall of Boredom</p>
+        </footer>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
